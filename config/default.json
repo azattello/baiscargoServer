@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl" : "mongodb+srv://azatabdykalli:Xd0oIQ3NXJ7eBfvh@bais-cargo.drkwjgg.mongodb.net/?retryWrites=true&w=majority&appName=Bais-cargo",
+    "secretKey" : "mern-secret-key"
+}
